@@ -85,7 +85,7 @@ def main():
         add_meta_tag(soup)
         modify_anchor_tags(soup)
         write_soup_to_file(soup, name)
-        # time.sleep(1)
+        time.sleep(1)
 
 
 if __name__ == '__main__':
