@@ -1,0 +1,10 @@
+*.pyc
+.idea/
+.DS_Store
+scratch/
+.coverage
+__pycache__/
+*.egg-info/
+output/
+
+
